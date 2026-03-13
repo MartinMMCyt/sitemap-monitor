@@ -45,7 +45,7 @@ sites:
     active: true
   - name: "BloxGames"
     sitemap_urls:
-      - "https://bloxdgames.io/sitemap.xml"
+      - "https://bloxgames.io/sitemap.xml"
     active: true
   - name: "WooGames"
     sitemap_urls:
