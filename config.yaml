@@ -43,7 +43,19 @@ sites:
     sitemap_urls:
       - "https://geometrylite.io/sitemap.xml"
     active: true
-
+  - name: "BloxGames"
+    sitemap_urls:
+      - "https://bloxdgames.io/sitemap.xml"
+    active: true
+  - name: "WooGames"
+    sitemap_urls:
+      - "https://woogames.io/sitemap.xml"
+    active: true
+  - name: "GeometryLiteGH"
+    sitemap_urls:
+      - "https://geometrylite.github.io/sitemap.xml"
+    active: true
+    
 
 feishu:
   webhook_url: ""
